@@ -2,7 +2,7 @@
 
 #### Overview
 
-- An interactive CLI tool.
+- An interactive CLI tool that runs SQL queries against csv files.
 - A simple Python 3.8 based CLI tool that uses no external libraries.
 - Unit and integration tested using Python's unittest.
 - Some important documentation/comments is provided at the header of almost all files.
